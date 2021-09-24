@@ -1,0 +1,23 @@
+.card-body {
+    justify-content: space-between;
+}
+
+#card {
+    width: 420px;
+}
+
+.card {
+    width: 100%;
+    max-width: none !important;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5%;
+}
+
+.card-header {
+    color: white !important;
+}

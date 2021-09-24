@@ -1,0 +1,31 @@
+body{
+    background-color:#FAF2EA;
+}
+
+.photo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 5%;
+}
+
+header{
+    height: 10%;
+    background-color: rosybrown;
+    color:black;
+}
+
+h1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+footer {
+    height: 10%;
+    background-color: rosybrown;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
